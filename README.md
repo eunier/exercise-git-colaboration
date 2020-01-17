@@ -26,8 +26,17 @@ $ git push origin master
 
 3. When students finish, they have to commit and push to your repository.
 
+## git setup may required
 
-## Addional complementary info
+1. If not done so yet, guide students running the following  git configurations:
+```
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
+
+
+## Additional complementary info
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
