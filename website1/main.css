@@ -26,12 +26,12 @@ h3 {
   margin-top: 60px;
 }
 form {
-  background-color:rgb(221, 221, 221);
-  width: 100%;
+  background-color: rgb(234, 234, 234);
   border-style: solid;
+  width: 900px;
   border-width: 2px;
-  border-color: lightgrey;
-  padding: 30px;
+  border-color: rgb(226, 226, 226);
+  padding: 5px;
 }
 #email::placeholder,
 #message::placeholder {
